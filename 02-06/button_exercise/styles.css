@@ -1,0 +1,27 @@
+button{
+    background-color: red;
+    border-radius: 50%;
+    color: white;
+    padding: 5px 11px;
+    font-size: large;
+    font: italic .9em "Impact", serif;
+}
+
+.inputDiv{
+    display: flex;
+    max-width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.wordInput{
+    /* display: flex; */
+    justify-content: center;
+}
+
+.formBox{
+    /* display: flex; */
+    text-align: center;
+    justify-content: center;
+    flex-grow: 2;
+}
